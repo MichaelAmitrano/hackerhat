@@ -10,6 +10,8 @@ Note: The script is designed to be run after a fresh installation of Fedora, if 
 curl -L https://raw.githubusercontent.com/MichaelAmitrano/hackerhat/main/hackerhat.sh > hackerhat.sh
 chmod 777 hackerhat.sh && sudo ./hackerhat.sh && rm hackerhat.sh
 ```
+--------------------------------------------------------------------
+
 System specs this was tested on:
 
 CPU Cores: 2
@@ -17,3 +19,6 @@ CPU Cores: 2
 RAM: 8gb
 
 Storage: 50gb
+
+---------------------------------------------------------------------
+Special thanks to Taggart-Tech and athO for helping me out with this.
